@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://textmining.bsc.es" target="_blank">M Text Mining unit BSC</a></h1>
+  <h1><a href="https://textmining.bsc.es" target="_blank">Text Mining unit BSC</a></h1>
   Website created for the text mining unit at BSC
 </div>
 
